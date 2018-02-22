@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+<title>Jasneet's Pictures!</title>
+</head> 
+<body>  
+  <figure>
+  <img src="https://pm1.narvii.com/6495/60ad1c5fa69a509c70f63981d3ef64322d6f5186_hq.jpg"/> 
+  <figcaption>Fig1. -Percy and Annabeth.</figcaption>
+</figure>
+  <figure>
+  <img src="https://pm1.narvii.com/6495/60ad1c5fa69a509c70f63981d3ef64322d6f5186_hq.jpg" style="width:400px;height:200px;"/> 
+  <figcaption>Fig2. -Percy and Annabeth resized once.</figcaption>
+</figure>
+ <figure>
+  <img src="https://pm1.narvii.com/6495/60ad1c5fa69a509c70f63981d3ef64322d6f5186_hq.jpg" style="width:250px;height:200px;"/> 
+  <figcaption>Fig3. -Percy and Annabeth resized twice.</figcaption>
+</figure>
+</body>
+</html>
